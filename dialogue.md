@@ -1,6 +1,6 @@
 # Tristan and Isolde
 
-Tristan: I brought you a flower from the garden.
+Tristan: I brought you a flower from the Hofgarden.
 
 Isolde: Thank you, Trsitan. Shall we walk by the sea?
 
