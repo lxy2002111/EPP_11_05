@@ -1,5 +1,7 @@
 # Tristan and Isolde
-
+# Introduction to the love story
+    
+A Cornish knight once met an Irish princess.
 Tristan: I brought you a flowersss from the Hofgarden.
 Tristan: I brought you a tulip from the Hofgarden.
 
