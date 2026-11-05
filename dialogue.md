@@ -1,8 +1,9 @@
 # Tristan and Isolde
 
 Tristan: I brought you a flowersss from the Hofgarden.
+Tristan: I brought you a tulip from the Hofgarden.
 
-Isolde: Thank you, Trsitan. Shall we walk by the sea?
+Isolde: Thank you, Tristanowisch. Shall we walk by the sea?
 
 Tristan: Yes, the sea is quiet this evening.
 
