@@ -12,3 +12,5 @@ Tristan: Yes, the sea is quiet this evening.
 Isolde: Then let us leave our worries here.
 
 ABCDEFG
+# The end
+Tristan and Isolde are dead, caused by a knife through the heart
